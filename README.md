@@ -1,7 +1,3 @@
-Creating a README file for your GitHub repository is crucial for providing comprehensive information about your project, including setup instructions, usage guidelines, and other relevant details. Below is a suggested structure and content for your README file:
-
----
-
 # ShoppingList Android App
 
 Welcome to the ShoppingList Android App repository! This app allows users to manage shopping lists collaboratively using Firebase Realtime Database and Google Sign-In authentication.
@@ -26,7 +22,7 @@ To get started with the ShoppingList Android App project, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/shopping-list-app.git
+   https://github.com/Manilka99/Shopping-List-Android-Application.git
    ```
 
 2. **Open in Android Studio**:
