@@ -5,8 +5,8 @@ Welcome to the ShoppingList Android App repository! This app allows users to man
 ## Features
 
 - **User Authentication**: Utilizes Google Sign-In for secure user authentication.
-- **Real-Time Updates**: Enables real-time synchronization of shopping lists across multiple users.
-- **Item Management**: Add, edit, and delete items in the shopping list with ease.
+- **Real-Time Updates**: Enables real-time synchronization of the shopping list across multiple users.
+- **Item Management**: Add and delete items in the shopping list with ease.
 - **Intuitive Interface**: Provides a user-friendly interface with a RecyclerView for managing shopping items.
 
 ## Technologies Used
